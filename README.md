@@ -3,7 +3,7 @@
 
 </div>
 
-<h1  align="center">NextJS, Typescript, GraphQL e GraphCMS</h1>
+<h1  align="center">NextJS, Typescript, Tailwind, GraphQL e GraphCMS</h1>
 
 <br>
 
@@ -21,6 +21,7 @@ The following tools were used in this project:
 - [Jamstack](https://jamstack.org/)
 - [GraphCMS](https://graphcms.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 
 ## :white_check_mark: Requirements
 
